@@ -1,0 +1,11 @@
+[
+  {
+    "source_name": "flickr_patents_2020",
+    "source_type": "api",
+    "url": "https://api.flickr.com/services/feeds/photos_public.gne?tags=patent,2020&format=json",
+    "file_type": "json",
+    "target_path": "bronze/flickr_patents_2020.json",
+    "schedule": "daily"
+  }
+]
+
